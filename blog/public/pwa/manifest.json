@@ -5,7 +5,7 @@
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": "/index.html",
   "icons": [
     {
       "src": "https://cdn.jsdelivr.net/gh/leslieyin/dns@0.2/blog/public/icons/47%C3%9741.png",
@@ -28,7 +28,7 @@
       "type": "image/png"
     },
     {
-      "src": "/pwa/icons/144x125.png",
+      "src": "https://cdn.jsdelivr.net/gh/leslieyin/dns@master/blog/public/icons/icon-144x125.png",
       "sizes": "144x125",
       "type": "image/png"
     },	
